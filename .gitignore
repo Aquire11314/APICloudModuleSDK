@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/moduleDemo/build/
+/moduleDemo/build/intermediates/classes/debug/
+/moduleDemo/build/intermediates/classes/test/debug/
